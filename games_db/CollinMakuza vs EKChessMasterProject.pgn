@@ -1,0 +1,22 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.24"]
+[Round "?"]
+[White "CollinMakuza"]
+[Black "EKChessMasterProject"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "854"]
+[BlackElo "677"]
+[TimeControl "600"]
+[EndTime "10:55:49 PDT"]
+[Termination "CollinMakuza won by checkmate"]
+
+1. e4 e5 2. d4 d6 3. d5 g6 4. Nc3 Bg7 5. Be3 Bd7 6. Qd2 f5 7. f3 Ne7 8. Bg5 Rf8
+9. O-O-O h6 10. Bh4 g5 11. Bf2 fxe4 12. fxe4 Na6 13. Bxa6 bxa6 14. Nh3 Rb8 15.
+Rhf1 Rb7 16. Be3 Qb8 17. Rxf8+ Bxf8 18. b3 Bg4 19. Rf1 Bxh3 20. gxh3 Bg7 21. Qf2
+Nc8 22. Qf7+ Kd8 23. Qxg7 Ne7 24. Rf8+ Kd7 25. Rxb8 Rxb8 26. Qxh6 Rg8 27. Qh7 a5
+28. Bxg5 Rxg5 29. h4 Rg1+ 30. Kb2 c6 31. h5 Rh1 32. h3 Rxh3 33. Ne2 cxd5 34.
+exd5 Rh4 35. Nc3 a6 36. Na4 e4 37. Nb6+ Kc7 38. Qxe7+ Kxb6 39. Qxh4 e3 40. Qe1
+Kc5 41. h6 Kxd5 42. h7 Ke4 43. h8=Q d5 44. Qe8+ Kf3 45. Qf1+ Kg3 46. Qg8+ Kh2
+47. Qfg1+ Kh3 48. Q8g3# 1-0
